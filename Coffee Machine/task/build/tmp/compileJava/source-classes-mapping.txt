@@ -1,0 +1,28 @@
+machine/Recipe.java
+ machine.Recipe
+machine/CheckResult.java
+ machine.CheckResult
+machine/ConsoleContext.java
+ machine.ConsoleContext
+machine/MachineState.java
+ machine.MachineState
+machine/Action.java
+ machine.Action
+ machine.Action$Buy
+ machine.Action$Fill
+ machine.Action$Remaining
+ machine.Action$Take
+machine/UI.java
+ machine.UI
+machine/CoffeeMachineRunner.java
+ machine.CoffeeMachineRunner
+machine/CoffeeMachineAPI.java
+ machine.CoffeeMachineAPI
+machine/Recipes.java
+ machine.Recipes
+machine/CoffeeMachineImpl.java
+ machine.CoffeeMachineImpl
+machine/CoffeeMachine.java
+ machine.CoffeeMachine
+machine/ConsoleUI.java
+ machine.ConsoleUI
